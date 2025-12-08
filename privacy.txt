@@ -1,0 +1,31 @@
+
+Privacy Policy for Proper ID。
+Last Updated: December 5, 2025
+1. Overview
+Welcome to Proper ID. We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we handle your information when you use our mobile application.
+2. Photo and Face Data (100% Offline)
+We do NOT collect, store, or upload your photos or face data.
+Local Processing: All image processing, including background removal, face detection, and cropping, is performed entirely on your device using Apple's Vision framework and CoreImage technology.
+No Cloud Uploads: Your photos never leave your iPhone. We do not have access to your original photos or the ID photos you create.
+3. Data Collection by Third Parties (Advertising)
+To keep the app free, we use Google AdMob to display advertisements. Google AdMob may collect and use certain data to provide personalized advertising and analytics.
+Data collected by AdMob may include:
+Identifiers: Device ID (such as IDFA) to track ad performance.
+Usage Data: How you interact with the ads (e.g., clicks, impressions).
+Diagnostics: Crash logs and performance data related to the ads.
+Location: Coarse location data (not precise location) to show relevant local ads.
+You can manage your tracking preferences via the iOS system settings ("Allow Apps to Request to Track") or through the privacy prompt displayed when you first launch the app.
+For more details, please refer to:
+Google AdMob Privacy Policy
+4. App Permissions
+Proper ID requests the following permissions to function:
+Camera: Required to take photos for creating ID/Passport photos. This data is processed locally.
+Photo Library: Required to load existing photos for editing and to save your final ID photos to your device.
+App Tracking Transparency (iOS): Required to deliver personalized ads. You can choose to "Ask App Not to Track," which will not affect the app's core functionality.
+5. Children’s Privacy
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. These changes are effective immediately after they are posted on this page.
+7. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+jxy930722@outlook.com
