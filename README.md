@@ -1,4 +1,4 @@
-# Proper ID - Support
+Support
 
 If you have any questions or feedback, please contact us.
 
